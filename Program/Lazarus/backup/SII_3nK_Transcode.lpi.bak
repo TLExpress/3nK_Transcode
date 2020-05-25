@@ -44,6 +44,9 @@
               <GenerateDebugInfo Value="False"/>
             </Debugging>
             <LinkSmart Value="True"/>
+            <Options>
+              <ExecutableType Value="Library"/>
+            </Options>
           </Linking>
           <Other>
             <CustomOptions Value="-dFPC
@@ -122,6 +125,9 @@
               <GenerateDebugInfo Value="False"/>
             </Debugging>
             <LinkSmart Value="True"/>
+            <Options>
+              <ExecutableType Value="Library"/>
+            </Options>
           </Linking>
           <Other>
             <CustomOptions Value="-dFPC
@@ -150,6 +156,7 @@
       <Unit0>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <IsPartOfProject Value="True"/>
+        <UnitName Value="sii3nk"/>
       </Unit0>
       <Unit1>
         <Filename Value="..\..\Source\SII_3nK_Transcoder.pas"/>
@@ -192,6 +199,9 @@
         <UseHeaptrc Value="True"/>
         <UseExternalDbgSyms Value="True"/>
       </Debugging>
+      <Options>
+        <ExecutableType Value="Library"/>
+      </Options>
     </Linking>
     <Other>
       <CustomOptions Value="-dFPC

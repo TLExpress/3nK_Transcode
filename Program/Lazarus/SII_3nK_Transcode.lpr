@@ -19,9 +19,9 @@ uses
 
 //begin
   //SII_3nK_Transcode_Program.Main;
-exports
+{exports
        SII_3nK_Transcode_Program.TranscodeFile;
 exports
-       SII_3nK_Transcode_Program.TranscodeStream;
+       SII_3nK_Transcode_Program.TranscodeStream;     }
 end.
 

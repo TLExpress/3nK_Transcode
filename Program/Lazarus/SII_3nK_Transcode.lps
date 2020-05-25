@@ -3,15 +3,14 @@
   <ProjectSession>
     <PathDelim Value="\"/>
     <Version Value="11"/>
-    <BuildModes Active="Release_win_x64"/>
+    <BuildModes Active="Debug_win_x86"/>
     <Units Count="6">
       <Unit0>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="10"/>
-        <CursorPos X="3" Y="8"/>
-        <UsageCount Value="22"/>
+        <UnitName Value="sii3nk"/>
+        <CursorPos X="26" Y="9"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -20,16 +19,17 @@
         <EditorIndex Value="2"/>
         <TopLine Value="178"/>
         <CursorPos X="12" Y="16"/>
-        <UsageCount Value="22"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="4"/>
-        <CursorPos X="35" Y="21"/>
-        <UsageCount Value="22"/>
+        <TopLine Value="55"/>
+        <CursorPos X="40" Y="72"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
@@ -50,7 +50,7 @@
         <UsageCount Value="10"/>
       </Unit5>
     </Units>
-    <JumpHistory Count="22" HistoryIndex="21">
+    <JumpHistory Count="23" HistoryIndex="22">
       <Position1>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <Caret Line="65" Column="2" TopLine="32"/>
@@ -73,72 +73,76 @@
       </Position5>
       <Position6>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="23" Column="12" TopLine="69"/>
+        <Caret Line="21" Column="22" TopLine="14"/>
       </Position6>
       <Position7>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="21" Column="22" TopLine="14"/>
+        <Caret Line="81" Column="51" TopLine="68"/>
       </Position7>
       <Position8>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="81" Column="51" TopLine="68"/>
+        <Caret Line="78" Column="93" TopLine="68"/>
       </Position8>
       <Position9>
-        <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="78" Column="93" TopLine="68"/>
-      </Position9>
-      <Position10>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <Caret Line="23" Column="54" TopLine="8"/>
-      </Position10>
-      <Position11>
+      </Position9>
+      <Position10>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <Caret Line="23" Column="3" TopLine="9"/>
-      </Position11>
-      <Position12>
+      </Position10>
+      <Position11>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <Caret Line="22" Column="34" TopLine="9"/>
-      </Position12>
-      <Position13>
+      </Position11>
+      <Position12>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <Caret Line="16" Column="31"/>
-      </Position13>
-      <Position14>
+      </Position12>
+      <Position13>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <Caret Line="23" Column="34" TopLine="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
+        <Caret Line="80" Column="87" TopLine="67"/>
       </Position14>
       <Position15>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="80" Column="87" TopLine="67"/>
+        <Caret Line="14" TopLine="7"/>
       </Position15>
       <Position16>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="14" TopLine="7"/>
+        <Caret Line="16" Column="91"/>
       </Position16>
       <Position17>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="16" Column="91"/>
+        <Caret Line="15" Column="12" TopLine="10"/>
       </Position17>
       <Position18>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="15" Column="12" TopLine="10"/>
+        <Caret Line="19" Column="12" TopLine="8"/>
       </Position18>
       <Position19>
-        <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
-        <Caret Line="19" Column="12" TopLine="8"/>
+        <Filename Value="SII_3nK_Transcode.lpr"/>
+        <Caret Line="19" Column="3" TopLine="9"/>
       </Position19>
       <Position20>
         <Filename Value="SII_3nK_Transcode.lpr"/>
-        <Caret Line="19" Column="3" TopLine="9"/>
+        <Caret Line="17" Column="35" TopLine="9"/>
       </Position20>
       <Position21>
         <Filename Value="SII_3nK_Transcode.lpr"/>
-        <Caret Line="17" Column="35" TopLine="9"/>
+        <Caret Line="16" Column="38" TopLine="9"/>
       </Position21>
       <Position22>
-        <Filename Value="SII_3nK_Transcode.lpr"/>
-        <Caret Line="16" Column="38" TopLine="9"/>
+        <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
+        <Caret Line="70" Column="61" TopLine="54"/>
       </Position22>
+      <Position23>
+        <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
+        <Caret Line="79" Column="35" TopLine="55"/>
+      </Position23>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
