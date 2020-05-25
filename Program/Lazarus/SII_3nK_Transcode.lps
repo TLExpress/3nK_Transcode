@@ -3,14 +3,15 @@
   <ProjectSession>
     <PathDelim Value="\"/>
     <Version Value="11"/>
-    <BuildModes Active="Debug_win_x86"/>
+    <BuildModes Active="Release_win_x86"/>
     <Units Count="6">
       <Unit0>
         <Filename Value="SII_3nK_Transcode.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="sii3nk"/>
-        <CursorPos X="26" Y="9"/>
-        <UsageCount Value="24"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="43" Y="9"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -19,17 +20,15 @@
         <EditorIndex Value="2"/>
         <TopLine Value="178"/>
         <CursorPos X="12" Y="16"/>
-        <UsageCount Value="24"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="55"/>
-        <CursorPos X="40" Y="72"/>
-        <UsageCount Value="24"/>
+        <CursorPos X="91" Y="23"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>

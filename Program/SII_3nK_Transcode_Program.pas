@@ -19,8 +19,8 @@ uses
   //AuxTypes;
 
 //procedure Main;
-procedure TranscodeFile(const InFileName, OutFileName: PChar);stdcall;
-procedure TranscodeStream(Input, Output: TStream; InvariantOutput: Boolean = False);stdcall;
+procedure TranscodeFile(const InFileName, OutFileName: PChar);cdecl;
+procedure TranscodeStream(Input, Output: TStream; InvariantOutput: Boolean = False);cdecl;
 
 implementation
 {
@@ -67,7 +67,7 @@ except
 end;
 end;
 }
-procedure TranscodeFile(const InFileName, OutFileName: PChar);stdcall;
+procedure TranscodeFile(const InFileName, OutFileName: PChar);cdecl;
 var
   ins:String[255];
   outs:String[255];
@@ -82,7 +82,7 @@ begin
   end;
 end;
 
-procedure TranscodeStream(Input, Output: TStream; InvariantOutput: Boolean = False);stdcall;
+procedure TranscodeStream(Input, Output: TStream; InvariantOutput: Boolean = False);cdecl;
 begin
   with TSII_3nK_Transcoder.Create do
     TranscodeStream(Input,Output,InvariantOutput);

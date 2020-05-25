@@ -69,8 +69,8 @@ end;
 }
 procedure TranscodeFile(const InFileName, OutFileName: PChar);stdcall;
 var
-  ins:String[512];
-  outs:string[512];
+  ins:String[255];
+  outs:String[255];
 begin
   with TSII_3nK_Transcoder.Create do
   try
