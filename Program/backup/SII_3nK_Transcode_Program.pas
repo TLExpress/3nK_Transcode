@@ -13,10 +13,8 @@ interface
 
 uses
   SysUtils,
-  //StrRect,
   SII_3nK_Transcoder,
   Classes;
-  //AuxTypes;
 
 //procedure Main;
 procedure TranscodeFile(const InFileName, OutFileName: String);cdecl;

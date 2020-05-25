@@ -5,7 +5,6 @@
   file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -------------------------------------------------------------------------------}
-//program SII_3nK_Transcode;
 library SII_3nK_Transcode;
 
 {$mode objfpc}{$H+}
@@ -17,8 +16,6 @@ uses
   Classes, SII_3nK_Transcode_Program;
   { you can add units after this }
 
-//begin
-  //SII_3nK_Transcode_Program.Main;
 exports
        SII_3nK_Transcode_Program.TranscodeFile;
 exports

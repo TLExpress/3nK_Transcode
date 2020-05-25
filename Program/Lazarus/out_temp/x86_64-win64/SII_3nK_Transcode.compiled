@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1351329191"/>
+  <Params Value=" -Twin64 -Px86_64 -MObjFPC -Scghi -CX -O3 -XX -l -vewnhibq -FiC:\Users\hank2\source\repos\3nK_Transcode\Program\Lazarus\out_temp\x86_64-win64 -FuC:\Users\hank2\source\repos\3nK_Transcode\Source -FuC:\Users\hank2\source\repos\3nK_Transcode\Program -FuC:\Users\hank2\source\repos\3nK_Transcode\Source\Libs -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\hank2\source\repos\3nK_Transcode\Program\Lazarus\ -FUC:\Users\hank2\source\repos\3nK_Transcode\Program\Lazarus\out_temp\x86_64-win64\ -FEC:\Users\hank2\source\repos\3nK_Transcode\Program\Lazarus\Release\win_x64\ -oC:\Users\hank2\source\repos\3nK_Transcode\Program\Lazarus\Release\win_x64\SII_3nK_Transcode.dll -dFPC -dWindows -dRelease -dx64 SII_3nK_Transcode.lpr"/>
+</CONFIG>
