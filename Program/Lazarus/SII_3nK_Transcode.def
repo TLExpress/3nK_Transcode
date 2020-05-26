@@ -1,0 +1,12 @@
+EXPORTS
+Is3nKStream
+Is3nKFile
+EncodeStream
+DecodeStream
+TranscodeStream
+DecodeFile
+EncodeFile
+TranscodeFile
+DecodeFileInMemory
+EncodeFileInMemory
+TranscodeFileInMemory

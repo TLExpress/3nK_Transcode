@@ -44,6 +44,9 @@
               <GenerateDebugInfo Value="False"/>
             </Debugging>
             <LinkSmart Value="True"/>
+            <Options>
+              <ExecutableType Value="Library"/>
+            </Options>
           </Linking>
           <Other>
             <CustomOptions Value="-dFPC
@@ -195,6 +198,9 @@
         <UseHeaptrc Value="True"/>
         <UseExternalDbgSyms Value="True"/>
       </Debugging>
+      <Options>
+        <ExecutableType Value="Library"/>
+      </Options>
     </Linking>
     <Other>
       <CustomOptions Value="-dFPC
