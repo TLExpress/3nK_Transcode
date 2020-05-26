@@ -1,0 +1,4 @@
+Program/backup/*
+Program/Lazarus/backup/*
+Program/Lazarus/Debug/*
+Program/Lazarus/out_temp/*
