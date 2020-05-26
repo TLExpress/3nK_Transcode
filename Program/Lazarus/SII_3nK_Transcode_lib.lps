@@ -3,30 +3,29 @@
   <ProjectSession>
     <PathDelim Value="\"/>
     <Version Value="11"/>
-    <BuildModes Active="Debug_win_x64"/>
+    <BuildModes Active="Release_win_x64"/>
     <Units Count="4">
       <Unit0>
         <Filename Value="SII_3nK_Transcode_lib.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="..\..\Source\SII_3nK_Transcoder.pas"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\SII_3nK_Transcode_Program.pas"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
       </Unit2>
       <Unit3>
         <Filename Value="..\SII_3nK_Transcode_Library.pas"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="7"/>
-        <CursorPos X="23" Y="17"/>
+        <CursorPos X="54" Y="11"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit3>
